@@ -1,0 +1,10 @@
+C:\Users\yeray.blanco.aldao\source\repos\CalculadoraWindowsForm\CalculadoraWindowsForm\bin\Debug\CalculadoraWindowsForm.exe.config
+C:\Users\yeray.blanco.aldao\source\repos\CalculadoraWindowsForm\CalculadoraWindowsForm\bin\Debug\CalculadoraWindowsForm.exe
+C:\Users\yeray.blanco.aldao\source\repos\CalculadoraWindowsForm\CalculadoraWindowsForm\bin\Debug\CalculadoraWindowsForm.pdb
+C:\Users\yeray.blanco.aldao\source\repos\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.csproj.AssemblyReference.cache
+C:\Users\yeray.blanco.aldao\source\repos\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.Form1.resources
+C:\Users\yeray.blanco.aldao\source\repos\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.Properties.Resources.resources
+C:\Users\yeray.blanco.aldao\source\repos\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.csproj.GenerateResource.cache
+C:\Users\yeray.blanco.aldao\source\repos\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\yeray.blanco.aldao\source\repos\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.exe
+C:\Users\yeray.blanco.aldao\source\repos\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.pdb
